@@ -4,4 +4,4 @@ Die mobile Anwendung "ShutApps" enstand während meines Studiums "Wirtschaftsinf
 
 Das Ziel dieses Projekts ist in Erfahrung zu bringen, ob es möglich ist, mit einer mobilen Anwendung die Smartphone-Nutzung auf den Smartphones von Freunden einzuschränken. Hierfür sollen die Nutzern gegenseitig bestimmte Apps auf dem Smartphones von Freunden blockieren können, wenn sie in der Nähe sind. Die Voraussetzung für die Nutzung der App ist, dass die Freunden diese App bewusst nutzen. 
 
-Genauere Informationen finden Sie im [Projektdokumentation](
+Genauere Informationen finden Sie im [Projektdokumentation](https://github.com/PhiHaiDinh/ShutApps/blob/master/Projektdokumentation.pdf)
