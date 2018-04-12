@@ -5,3 +5,17 @@ Die mobile Anwendung "ShutApps" enstand während meines Studiums "Wirtschaftsinf
 Das Ziel dieses Projekts ist in Erfahrung zu bringen, ob es möglich ist, mit einer mobilen Anwendung die Smartphone-Nutzung auf den Smartphones von Freunden einzuschränken. Hierfür sollen die Nutzern gegenseitig bestimmte Apps auf dem Smartphone von Freunden blockieren können, wenn sie in der Nähe sind. Die Voraussetzung für die Nutzung der App ist, dass die Freunden diese App bewusst nutzen. 
 
 Genauere Informationen finden Sie im [Projektdokumentation](https://github.com/PhiHaiDinh/ShutApps/blob/master/Projektdokumentation.pdf)
+
+## Architektur
+
+* **Android Studio** als Entwicklungsumgebung
+* auf **Firebase** basierte Architektur, kein Server vorhanden
+  * **Firebase Realtime Database** für Echtzeit-Datenhaltung
+  * **Firebase Storage** zur Speicherung von Bildern (Profilbilder, App-Icons)
+  * **Firebase Authentication** zur Authentifizierung in der Anwendung
+* Client als mobiler Client in **Android**
+  * **Accessibility-Service** zur Erkennung der Vordergrund-App
+  * **NotificationListenerService** zur Unterdrückung der ankommenden Benachrichtigungen
+* Anbindung von Facebook mit der **Facebook Graph API**
+* Client zu Client Kommunikation vorher mit **Google Nearby Messages API**, jetzt mit **Android Beacon Library**
+     
