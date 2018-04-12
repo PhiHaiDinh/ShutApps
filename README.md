@@ -6,7 +6,7 @@ Das Ziel dieses Projekts ist in Erfahrung zu bringen, ob es möglich ist, mit ei
 
 Genauere Informationen finden Sie im [Projektdokumentation](https://github.com/PhiHaiDinh/ShutApps/blob/master/Projektdokumentation.pdf)
 
-## Architektur
+## Architektur und Technologien
 ![Architekturdiagramm](https://github.com/ducle07/shutapps/blob/master/Architektur.png)
 
 * **Android Studio** als Entwicklungsumgebung
