@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "686632266065",
+    "firebase_url": "https://vertical-orbit-163114.firebaseio.com",
+    "project_id": "vertical-orbit-163114",
+    "storage_bucket": "vertical-orbit-163114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686632266065:android:9988cd95e15b8a5a",
+        "android_client_info": {
+          "package_name": "pp_ss2017.controllingapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686632266065-i6l495vknm3q2g5o02kvbqu80cf2jagl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1V8p-gN4F5mxdV5c6RR3s0Df5T0eWcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShutApps</string>
+    <string name="block_service_name">BlockService</string>
+    <string name="facebook_app_id">471678116496883</string>
+    <string name="loading">Loading</string>
+    <string name="action_logout"> Log Out</string>
+    <string name="action_profile">Profile</string>
+    <string name="firebase_error_login">Firebase Login Error</string>
+    <string name="notification_listener_service">Notification Listener Service</string>
+    <string name="notification_listener_service_explanation">Für das erfolgreiche Blockieren von Notifications müssen Sie den Benachrichtigungszugriff für diese App aktivieren.</string>
+    <string name="yes">ja</string>
+    <string name="no">nein</string>
+    <string name="accessibility_service_description">ShutApps nutzt Funktionen aus den Bedienhilfen, um zu beobachten, ob von Freunde blockierte Apps gestartet werden.</string>
+    <string name="accessibility_title">Accessibility Service</string>
+    <string name="accessibility_explanation">ShutApps benötigt Funktionen aus den Bedienhilfen, um zu funktionieren. Bei Ja werden Sie zu den Systemeinstellungen weitergeleitet. Bei Nein wird die App geschlossen.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit">edit</string>
+</resources>

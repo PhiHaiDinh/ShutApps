@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pp_ss2017.controllingapps.TempMainActivity">
+
+    <item
+        android:id="@+id/action_profile"
+        android:title="@string/action_profile" />
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/action_logout"/>
+</menu>
