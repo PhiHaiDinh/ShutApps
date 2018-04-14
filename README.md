@@ -26,6 +26,6 @@ Genauere Informationen finden Sie im [Projektdokumentation](https://github.com/P
 ## English Version
 
 
-The mobile application "ShutApps" was created during my study "Business Informatics" in the module "Praxisprojekt" and in cooperation with Duc Giang Le. The basic idea of this project was taken as the foundation for my bachelor thesis. Duc Giang was responsible for most of the implementation of the Android application, while I was mainly involved in conceptual modeling.
+The mobile application "ShutApps" was created during my study "Business Information Systems" in the module "Praxisprojekt" and in cooperation with Duc Giang Le. The basic idea of this project was taken as the foundation for my bachelor thesis. Duc Giang was responsible for most of the implementation of the Android application, while I was mainly involved in conceptual modeling.
 
 The objective of the project is to find out if it is feasible to restrict the use of smartphones by friends with a mobile application. To achieve this, it is necessary that the friends who are nearby have the possibility to block friends specific apps on their smartphones.
