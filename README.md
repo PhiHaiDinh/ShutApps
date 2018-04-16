@@ -36,11 +36,11 @@ The objective of the project is to find out if it is feasible to restrict the us
 
 * **Android Studio** as development environment
 * on **Firebase** based architecture, no server in use
-* **Firebase Realtime Database** for real-time data management
-* **Firebase Storage** for storing pictures (profile pictures, app icons)
-* **Firebase Authentication** for authentication in the application
+  * **Firebase Realtime Database** for real-time data management
+  * **Firebase Storage** for storing pictures (profile pictures, app icons)
+  * **Firebase Authentication** for authentication in the application
 * Client as a mobile client in **Android**
-* **Accessbility Service** to detect the foreground app
-* **NotificationListenerService** to suppress incoming notifications
+  * **Accessbility Service** to detect the foreground app
+  * **NotificationListenerService** to suppress incoming notifications
 *Connecting Facebook with the **Facebook Graph API**
 * Client to client communication, before with **Google Nearby Messages API**, now with **Android Beacon Library**
