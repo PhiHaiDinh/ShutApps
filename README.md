@@ -31,7 +31,7 @@ The mobile application "ShutApps" was created during my study "Business Informat
 The objective of the project is to find out if it is feasible to restrict the use of smartphones by friends with a mobile application. To achieve this, it is necessary that the friends who are nearby have the possibility to block friends specific apps on their smartphones.
 
 ## Architecture and Technologies
-(https://github.com/ducle07/shutapps/blob/master/Architektur.png)
+![Architekturdiagramm](https://github.com/ducle07/shutapps/blob/master/Architektur.png)
 
 
 * **Android Studio** as development environment
