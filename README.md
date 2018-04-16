@@ -29,3 +29,18 @@ Genauere Informationen finden Sie im [Projektdokumentation](https://github.com/P
 The mobile application "ShutApps" was created during my study "Business Information Systems" in the module "Praxisprojekt" and in cooperation with Duc Giang Le. The basic idea of this project was taken as the foundation for my bachelor thesis. Duc Giang was responsible for most of the implementation of the Android application, while I was mainly involved in conceptual modeling.
 
 The objective of the project is to find out if it is feasible to restrict the use of smartphones by friends with a mobile application. To achieve this, it is necessary that the friends who are nearby have the possibility to block friends specific apps on their smartphones.
+
+## Architecture and Technologies
+(https://github.com/ducle07/shutapps/blob/master/Architektur.png)
+
+
+* **Android Studio** as development environment
+* on **Firebase** based architecture, no server in use
+* **Firebase Realtime Database** for real-time data management
+* **Firebase Storage** for storing pictures (profile pictures, app icons)
+* **Firebase Authentication** for authentication in the application
+* Client as a mobile client in **Android**
+* **Accessbility Service** to detect the foreground app
+* **NotificationListenerService** to suppress incoming notifications
+*Connecting Facebook with the **Facebook Graph API**
+* Client to client communication, before with **Google Nearby Messages API**, now with **Android Beacon Library**
